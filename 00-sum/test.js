@@ -1,4 +1,4 @@
-// TODO
+// TODO: Create function sum
 
 
 // Test cases
