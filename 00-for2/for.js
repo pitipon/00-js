@@ -10,3 +10,11 @@ function printStarReverse(n) {
 
 // Example usage:
 printStarReverse(4);
+
+
+// RESULT
+// ****
+// ***
+// **
+// *
+

@@ -1,13 +1,15 @@
-function printStar(n) {
-    // TODO: here
+function printStarReverse(n) {
+    // TODO
 }
 
 // Example usage:
-printStar(4);
+printStarReverse(4);
 
 
 // RESULT
-// *
-// **
-// ***
 // ****
+// ***
+// **
+// *
+
+
